@@ -6,4 +6,4 @@ export { default as Error } from "./ErrorPage";
 export { default as Home } from "./HomePage";
 export { default as PrivateRoute } from "./PrivateRoute";
 export { default as Products } from "./ProductsPage";
-export { default as SingleProduct } from "./AboutPage";
+export { default as SingleProduct } from "./SingleProductPage";
